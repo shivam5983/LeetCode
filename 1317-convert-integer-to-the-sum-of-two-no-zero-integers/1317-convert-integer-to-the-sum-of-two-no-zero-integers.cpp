@@ -8,7 +8,7 @@ public:
             }
             return true;
         };
-        for (int i = 1; i < n; ++i) {
+        for (int i = 1; i <= n; ++i) {
             int j = n - i;
             if (check(i) && check(j)) {
                 return {i, j};
