@@ -8,6 +8,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/shivam5983/LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/shivam5983/LeetCode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
@@ -30,6 +31,7 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/shivam5983/LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/shivam5983/LeetCode/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
@@ -47,4 +49,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/shivam5983/LeetCode/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/shivam5983/LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 <!---LeetCode Topics End-->
