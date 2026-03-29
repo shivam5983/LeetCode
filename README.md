@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/shivam5983/LeetCode/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
+| [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/shivam5983/LeetCode/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
