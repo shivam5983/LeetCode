@@ -18,6 +18,7 @@
 | [1727-largest-submatrix-with-rearrangements](https://github.com/shivam5983/LeetCode/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/shivam5983/LeetCode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/shivam5983/LeetCode/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
+| [2751-robot-collisions](https://github.com/shivam5983/LeetCode/tree/main/2751-robot-collisions/) | Hard |
 | [2906-construct-product-matrix](https://github.com/shivam5983/LeetCode/tree/main/2906-construct-product-matrix/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/shivam5983/LeetCode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3546-equal-sum-grid-partition-i](https://github.com/shivam5983/LeetCode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
@@ -87,6 +88,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/shivam5983/LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/shivam5983/LeetCode/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/shivam5983/LeetCode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
+| [2751-robot-collisions](https://github.com/shivam5983/LeetCode/tree/main/2751-robot-collisions/) | Hard |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/shivam5983/LeetCode/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -105,5 +107,10 @@
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2751-robot-collisions](https://github.com/shivam5983/LeetCode/tree/main/2751-robot-collisions/) | Hard |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/shivam5983/LeetCode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2751-robot-collisions](https://github.com/shivam5983/LeetCode/tree/main/2751-robot-collisions/) | Hard |
 <!---LeetCode Topics End-->
