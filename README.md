@@ -23,6 +23,7 @@
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/shivam5983/LeetCode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3546-equal-sum-grid-partition-i](https://github.com/shivam5983/LeetCode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/shivam5983/LeetCode/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/shivam5983/LeetCode/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -41,6 +42,7 @@
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/shivam5983/LeetCode/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/shivam5983/LeetCode/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/shivam5983/LeetCode/tree/main/3130-find-all-possible-stable-binary-arrays-ii/) | Hard |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/shivam5983/LeetCode/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -58,6 +60,7 @@
 | ------- | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shivam5983/LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/shivam5983/LeetCode/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/shivam5983/LeetCode/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -90,6 +93,7 @@
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/shivam5983/LeetCode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2751-robot-collisions](https://github.com/shivam5983/LeetCode/tree/main/2751-robot-collisions/) | Hard |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/shivam5983/LeetCode/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/shivam5983/LeetCode/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
