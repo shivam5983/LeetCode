@@ -13,6 +13,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shivam5983/LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/shivam5983/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/shivam5983/LeetCode/tree/main/0283-move-zeroes/) | Easy |
+| [0874-walking-robot-simulation](https://github.com/shivam5983/LeetCode/tree/main/0874-walking-robot-simulation/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/shivam5983/LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/shivam5983/LeetCode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/shivam5983/LeetCode/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
@@ -112,6 +113,7 @@
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0874-walking-robot-simulation](https://github.com/shivam5983/LeetCode/tree/main/0874-walking-robot-simulation/) | Medium |
 | [2075-decode-the-slanted-ciphertext](https://github.com/shivam5983/LeetCode/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
 | [2751-robot-collisions](https://github.com/shivam5983/LeetCode/tree/main/2751-robot-collisions/) | Hard |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/shivam5983/LeetCode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
@@ -119,4 +121,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2751-robot-collisions](https://github.com/shivam5983/LeetCode/tree/main/2751-robot-collisions/) | Hard |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0874-walking-robot-simulation](https://github.com/shivam5983/LeetCode/tree/main/0874-walking-robot-simulation/) | Medium |
 <!---LeetCode Topics End-->
