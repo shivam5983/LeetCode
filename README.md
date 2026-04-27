@@ -16,6 +16,7 @@
 | [0283-move-zeroes](https://github.com/shivam5983/LeetCode/tree/main/0283-move-zeroes/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/shivam5983/LeetCode/tree/main/0874-walking-robot-simulation/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/shivam5983/LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/shivam5983/LeetCode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/shivam5983/LeetCode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/shivam5983/LeetCode/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/shivam5983/LeetCode/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
@@ -35,6 +36,7 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/shivam5983/LeetCode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/shivam5983/LeetCode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/shivam5983/LeetCode/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/shivam5983/LeetCode/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
@@ -80,6 +82,7 @@
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/shivam5983/LeetCode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/shivam5983/LeetCode/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 ## Graph Theory
 | Problem Name | Difficulty |
@@ -145,4 +148,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2069-walking-robot-simulation-ii](https://github.com/shivam5983/LeetCode/tree/main/2069-walking-robot-simulation-ii/) | Medium |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/shivam5983/LeetCode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/shivam5983/LeetCode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 <!---LeetCode Topics End-->
