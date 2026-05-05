@@ -104,6 +104,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0061-rotate-list](https://github.com/shivam5983/LeetCode/tree/main/0061-rotate-list/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shivam5983/LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/shivam5983/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/shivam5983/LeetCode/tree/main/0283-move-zeroes/) | Easy |
@@ -170,4 +171,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0796-rotate-string](https://github.com/shivam5983/LeetCode/tree/main/0796-rotate-string/) | Easy |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0061-rotate-list](https://github.com/shivam5983/LeetCode/tree/main/0061-rotate-list/) | Medium |
 <!---LeetCode Topics End-->
