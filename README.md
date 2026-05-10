@@ -26,6 +26,7 @@
 | [2078-two-furthest-houses-with-different-colors](https://github.com/shivam5983/LeetCode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2615-sum-of-distances](https://github.com/shivam5983/LeetCode/tree/main/2615-sum-of-distances/) | Medium |
 | [2751-robot-collisions](https://github.com/shivam5983/LeetCode/tree/main/2751-robot-collisions/) | Hard |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/shivam5983/LeetCode/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [2906-construct-product-matrix](https://github.com/shivam5983/LeetCode/tree/main/2906-construct-product-matrix/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/shivam5983/LeetCode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3225-maximum-score-from-grid-operations](https://github.com/shivam5983/LeetCode/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
@@ -56,6 +57,7 @@
 | ------- | ------- |
 | [0788-rotated-digits](https://github.com/shivam5983/LeetCode/tree/main/0788-rotated-digits/) | Medium |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/shivam5983/LeetCode/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/shivam5983/LeetCode/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/shivam5983/LeetCode/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/shivam5983/LeetCode/tree/main/3130-find-all-possible-stable-binary-arrays-ii/) | Hard |
 | [3225-maximum-score-from-grid-operations](https://github.com/shivam5983/LeetCode/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
