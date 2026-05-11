@@ -24,6 +24,7 @@
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/shivam5983/LeetCode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/shivam5983/LeetCode/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/shivam5983/LeetCode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
+| [2553-separate-the-digits-in-an-array](https://github.com/shivam5983/LeetCode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2615-sum-of-distances](https://github.com/shivam5983/LeetCode/tree/main/2615-sum-of-distances/) | Medium |
 | [2751-robot-collisions](https://github.com/shivam5983/LeetCode/tree/main/2751-robot-collisions/) | Hard |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/shivam5983/LeetCode/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
@@ -143,6 +144,7 @@
 | [0874-walking-robot-simulation](https://github.com/shivam5983/LeetCode/tree/main/0874-walking-robot-simulation/) | Medium |
 | [2069-walking-robot-simulation-ii](https://github.com/shivam5983/LeetCode/tree/main/2069-walking-robot-simulation-ii/) | Medium |
 | [2075-decode-the-slanted-ciphertext](https://github.com/shivam5983/LeetCode/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
+| [2553-separate-the-digits-in-an-array](https://github.com/shivam5983/LeetCode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2751-robot-collisions](https://github.com/shivam5983/LeetCode/tree/main/2751-robot-collisions/) | Hard |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/shivam5983/LeetCode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 ## Stack
