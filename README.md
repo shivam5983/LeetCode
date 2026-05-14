@@ -28,6 +28,7 @@
 | [2615-sum-of-distances](https://github.com/shivam5983/LeetCode/tree/main/2615-sum-of-distances/) | Medium |
 | [2751-robot-collisions](https://github.com/shivam5983/LeetCode/tree/main/2751-robot-collisions/) | Hard |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/shivam5983/LeetCode/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
+| [2784-check-if-array-is-good](https://github.com/shivam5983/LeetCode/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2906-construct-product-matrix](https://github.com/shivam5983/LeetCode/tree/main/2906-construct-product-matrix/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/shivam5983/LeetCode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3225-maximum-score-from-grid-operations](https://github.com/shivam5983/LeetCode/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
@@ -119,6 +120,7 @@
 | [1727-largest-submatrix-with-rearrangements](https://github.com/shivam5983/LeetCode/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/shivam5983/LeetCode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2751-robot-collisions](https://github.com/shivam5983/LeetCode/tree/main/2751-robot-collisions/) | Hard |
+| [2784-check-if-array-is-good](https://github.com/shivam5983/LeetCode/tree/main/2784-check-if-array-is-good/) | Easy |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/shivam5983/LeetCode/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/shivam5983/LeetCode/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 ## Math
@@ -156,6 +158,7 @@
 | ------- | ------- |
 | [0874-walking-robot-simulation](https://github.com/shivam5983/LeetCode/tree/main/0874-walking-robot-simulation/) | Medium |
 | [2615-sum-of-distances](https://github.com/shivam5983/LeetCode/tree/main/2615-sum-of-distances/) | Medium |
+| [2784-check-if-array-is-good](https://github.com/shivam5983/LeetCode/tree/main/2784-check-if-array-is-good/) | Easy |
 | [3488-closest-equal-element-queries](https://github.com/shivam5983/LeetCode/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/shivam5983/LeetCode/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/shivam5983/LeetCode/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
