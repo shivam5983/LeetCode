@@ -9,6 +9,7 @@
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/shivam5983/LeetCode/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [2075-decode-the-slanted-ciphertext](https://github.com/shivam5983/LeetCode/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/shivam5983/LeetCode/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/shivam5983/LeetCode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -34,6 +35,7 @@
 | [2784-check-if-array-is-good](https://github.com/shivam5983/LeetCode/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2906-construct-product-matrix](https://github.com/shivam5983/LeetCode/tree/main/2906-construct-product-matrix/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/shivam5983/LeetCode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/shivam5983/LeetCode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3225-maximum-score-from-grid-operations](https://github.com/shivam5983/LeetCode/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 | [3488-closest-equal-element-queries](https://github.com/shivam5983/LeetCode/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/shivam5983/LeetCode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
@@ -167,6 +169,7 @@
 | [2615-sum-of-distances](https://github.com/shivam5983/LeetCode/tree/main/2615-sum-of-distances/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/shivam5983/LeetCode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/shivam5983/LeetCode/tree/main/2784-check-if-array-is-good/) | Easy |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/shivam5983/LeetCode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3488-closest-equal-element-queries](https://github.com/shivam5983/LeetCode/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/shivam5983/LeetCode/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/shivam5983/LeetCode/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
@@ -192,4 +195,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0061-rotate-list](https://github.com/shivam5983/LeetCode/tree/main/0061-rotate-list/) | Medium |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/shivam5983/LeetCode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 <!---LeetCode Topics End-->
