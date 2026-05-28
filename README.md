@@ -10,6 +10,7 @@
 | [2075-decode-the-slanted-ciphertext](https://github.com/shivam5983/LeetCode/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/shivam5983/LeetCode/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/shivam5983/LeetCode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
+| [3093-longest-common-suffix-queries](https://github.com/shivam5983/LeetCode/tree/main/3093-longest-common-suffix-queries/) | Hard |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/shivam5983/LeetCode/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 ## Array
 | Problem Name | Difficulty |
@@ -40,6 +41,7 @@
 | [2906-construct-product-matrix](https://github.com/shivam5983/LeetCode/tree/main/2906-construct-product-matrix/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/shivam5983/LeetCode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/shivam5983/LeetCode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
+| [3093-longest-common-suffix-queries](https://github.com/shivam5983/LeetCode/tree/main/3093-longest-common-suffix-queries/) | Hard |
 | [3225-maximum-score-from-grid-operations](https://github.com/shivam5983/LeetCode/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 | [3488-closest-equal-element-queries](https://github.com/shivam5983/LeetCode/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/shivam5983/LeetCode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
@@ -207,4 +209,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/shivam5983/LeetCode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
+| [3093-longest-common-suffix-queries](https://github.com/shivam5983/LeetCode/tree/main/3093-longest-common-suffix-queries/) | Hard |
 <!---LeetCode Topics End-->
