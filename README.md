@@ -48,6 +48,7 @@
 | [3488-closest-equal-element-queries](https://github.com/shivam5983/LeetCode/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/shivam5983/LeetCode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/shivam5983/LeetCode/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/shivam5983/LeetCode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/shivam5983/LeetCode/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/shivam5983/LeetCode/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 | [3742-maximum-path-score-in-a-grid](https://github.com/shivam5983/LeetCode/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
@@ -103,6 +104,7 @@
 | [3161-block-placement-queries](https://github.com/shivam5983/LeetCode/tree/main/3161-block-placement-queries/) | Hard |
 | [3488-closest-equal-element-queries](https://github.com/shivam5983/LeetCode/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/shivam5983/LeetCode/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/shivam5983/LeetCode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/shivam5983/LeetCode/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
@@ -111,6 +113,7 @@
 | [2078-two-furthest-houses-with-different-colors](https://github.com/shivam5983/LeetCode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2126-destroying-asteroids](https://github.com/shivam5983/LeetCode/tree/main/2126-destroying-asteroids/) | Medium |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/shivam5983/LeetCode/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/shivam5983/LeetCode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -133,6 +136,7 @@
 | [0283-move-zeroes](https://github.com/shivam5983/LeetCode/tree/main/0283-move-zeroes/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/shivam5983/LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [2540-minimum-common-value](https://github.com/shivam5983/LeetCode/tree/main/2540-minimum-common-value/) | Easy |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/shivam5983/LeetCode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -144,6 +148,7 @@
 | [2751-robot-collisions](https://github.com/shivam5983/LeetCode/tree/main/2751-robot-collisions/) | Hard |
 | [2784-check-if-array-is-good](https://github.com/shivam5983/LeetCode/tree/main/2784-check-if-array-is-good/) | Easy |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/shivam5983/LeetCode/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/shivam5983/LeetCode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/shivam5983/LeetCode/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 ## Math
 | Problem Name | Difficulty |
