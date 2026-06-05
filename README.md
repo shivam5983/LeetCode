@@ -80,6 +80,7 @@
 | [3225-maximum-score-from-grid-operations](https://github.com/shivam5983/LeetCode/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/shivam5983/LeetCode/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 | [3742-maximum-path-score-in-a-grid](https://github.com/shivam5983/LeetCode/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
+| [3753-total-waviness-of-numbers-in-range-ii](https://github.com/shivam5983/LeetCode/tree/main/3753-total-waviness-of-numbers-in-range-ii/) | Hard |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -157,6 +158,7 @@
 | [0788-rotated-digits](https://github.com/shivam5983/LeetCode/tree/main/0788-rotated-digits/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/shivam5983/LeetCode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/shivam5983/LeetCode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
+| [3753-total-waviness-of-numbers-in-range-ii](https://github.com/shivam5983/LeetCode/tree/main/3753-total-waviness-of-numbers-in-range-ii/) | Hard |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/shivam5983/LeetCode/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
