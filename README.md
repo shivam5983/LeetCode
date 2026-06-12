@@ -47,6 +47,7 @@
 | [3225-maximum-score-from-grid-operations](https://github.com/shivam5983/LeetCode/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 | [3488-closest-equal-element-queries](https://github.com/shivam5983/LeetCode/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/shivam5983/LeetCode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/shivam5983/LeetCode/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/shivam5983/LeetCode/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/shivam5983/LeetCode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/shivam5983/LeetCode/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
@@ -78,6 +79,7 @@
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/shivam5983/LeetCode/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/shivam5983/LeetCode/tree/main/3130-find-all-possible-stable-binary-arrays-ii/) | Hard |
 | [3225-maximum-score-from-grid-operations](https://github.com/shivam5983/LeetCode/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/shivam5983/LeetCode/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/shivam5983/LeetCode/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 | [3742-maximum-path-score-in-a-grid](https://github.com/shivam5983/LeetCode/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/shivam5983/LeetCode/tree/main/3753-total-waviness-of-numbers-in-range-ii/) | Hard |
@@ -96,6 +98,7 @@
 | ------- | ------- |
 | [1009-complement-of-base-10-integer](https://github.com/shivam5983/LeetCode/tree/main/1009-complement-of-base-10-integer/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/shivam5983/LeetCode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/shivam5983/LeetCode/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -158,6 +161,7 @@
 | [0788-rotated-digits](https://github.com/shivam5983/LeetCode/tree/main/0788-rotated-digits/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/shivam5983/LeetCode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/shivam5983/LeetCode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/shivam5983/LeetCode/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/shivam5983/LeetCode/tree/main/3753-total-waviness-of-numbers-in-range-ii/) | Hard |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/shivam5983/LeetCode/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 ## Heap (Priority Queue)
@@ -204,6 +208,7 @@
 | ------- | ------- |
 | [1306-jump-game-iii](https://github.com/shivam5983/LeetCode/tree/main/1306-jump-game-iii/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/shivam5983/LeetCode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/shivam5983/LeetCode/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -230,4 +235,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3161-block-placement-queries](https://github.com/shivam5983/LeetCode/tree/main/3161-block-placement-queries/) | Hard |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/shivam5983/LeetCode/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 <!---LeetCode Topics End-->
