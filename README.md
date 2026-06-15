@@ -139,6 +139,7 @@
 | [0189-rotate-array](https://github.com/shivam5983/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/shivam5983/LeetCode/tree/main/0283-move-zeroes/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/shivam5983/LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/shivam5983/LeetCode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2540-minimum-common-value](https://github.com/shivam5983/LeetCode/tree/main/2540-minimum-common-value/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/shivam5983/LeetCode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 ## Sorting
@@ -222,6 +223,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0061-rotate-list](https://github.com/shivam5983/LeetCode/tree/main/0061-rotate-list/) | Medium |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/shivam5983/LeetCode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
