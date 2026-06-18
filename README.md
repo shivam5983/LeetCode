@@ -161,6 +161,7 @@
 | ------- | ------- |
 | [0189-rotate-array](https://github.com/shivam5983/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0788-rotated-digits](https://github.com/shivam5983/LeetCode/tree/main/0788-rotated-digits/) | Medium |
+| [1344-angle-between-hands-of-a-clock](https://github.com/shivam5983/LeetCode/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/shivam5983/LeetCode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/shivam5983/LeetCode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/shivam5983/LeetCode/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
